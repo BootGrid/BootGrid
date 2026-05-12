@@ -27,7 +27,7 @@ I focus on building clean, minimalist digital solutions and robust network infra
   <a href="https://alvian-portfolio.infinityfreeapp.com/">
     <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:bootgrid@emailkamu.com">
+  <a href="mailto:bootgrid@gmail.com">
     <img src="https://img.shields.io/badge/Reach_Out-333333?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
 </div>
