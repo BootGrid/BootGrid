@@ -28,9 +28,6 @@ I focus on building clean, minimalist digital solutions and reliable digital inf
   <a href="https://alvian-portfolio.infinityfreeapp.com/">
     <img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://cloud-ramesty.my.id/">
-    <img src="https://img.shields.io/badge/Cloud_Server-FBCFE8?style=for-the-badge&logo=Nextcloud&logoColor=333333" alt="Cloud" />
-  </a>
   <a href="mailto:bootgrid@emailkamu.com">
     <img src="https://img.shields.io/badge/Reach_Out-333333?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
