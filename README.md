@@ -5,20 +5,19 @@
 ---
 
 ### ✦ Digital Craftsmanship
-I focus on building clean, minimalist digital solutions and reliable digital infrastructures. My approach prioritizes elegant architecture, seamless integration, and smooth user experiences over unnecessary complexity.
+I focus on building clean, minimalist digital solutions and robust network infrastructures. My approach prioritizes elegant system architecture, seamless integration, and high performance over unnecessary complexity.
 
 ### ✦ Currently Architecting
-- ☁️ Deploying a secure personal cloud ecosystem using **Docker**, **Nextcloud**, and **Cloudflare Tunnels**.
-- 🌐 Configuring high-performance networking and multi-ISP load-balancing infrastructures.
-- 💻 Crafting robust, scalable web management systems and seamless digital portfolios.
+- 🌐 Configuring high-performance networking and enterprise-grade load-balancing infrastructures.
+- 💻 Crafting robust, scalable web management systems and seamless digital service platforms.
+- 🗄️ Designing efficient relational databases and optimizing backend logic for maximum reliability.
 
 ### ✦ Core Arsenal
 <div align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeIgniter&logoColor=white" alt="CodeIgniter" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Networking-333333?style=for-the-badge&logo=Ubiquiti&logoColor=white" alt="Network" />
 </div>
 
 <br>
