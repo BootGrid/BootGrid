@@ -18,7 +18,7 @@ I focus on building clean, minimalist digital solutions and reliable digital inf
 
 ### ✦ System Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=333333&bg_color=FEF6F8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BootGrid&show_icons=true&hide_border=true&title_color=A78BFA&icon_color=A78BFA&text_color=333333&bg_color=FEF6F8" alt="GitHub Stats" />
 </div>
 
 <br>
